@@ -1,4 +1,4 @@
-# <p align="center">Salut ! Moi c'est NDINGA Leka Pepito</p>
+# Salut ! Moi c'est NDINGA Leka Pepito
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=24&pause=1000&color=007BFF&center=true&vCenter=true&width=600&lines=Ingénieur+des+Travaux+Informatiques;Spécialiste+Réseaux+%26+Sécurité;Développeur+Full-Stack" alt="Typing SVG" />
